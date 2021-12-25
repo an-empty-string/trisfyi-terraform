@@ -4,8 +4,8 @@ let
   trisModules = ((import <nixpkgs> {}).fetchFromGitHub {
     owner = "an-empty-string";
     repo = "nixos-modules";
-    rev = "cf40b8302171e5d5e2604240640da6f213d9e405";
-    hash = "sha256-henZlYzGNkAGt+BawJ1/LM5p+TdZXqUy//ylieJ1BWY=";
+    rev = "d5a2e0615c304e3b631a50bfe049a7515043498e";
+    hash = "sha256-xitIQFER+ywVGRYCLa7tWYV1V0KfVbXN+Nxg4X6pRIc=";
   });
 in
 {
